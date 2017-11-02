@@ -1,0 +1,20 @@
+* {
+  font-family: Verdana;
+}
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.web-link {
+  color: aquamarine;
+}
